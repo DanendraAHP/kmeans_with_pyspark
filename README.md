@@ -1,2 +1,2 @@
 # kmeans_with_pyspark
-Implementing standard kmeans and kmeans++ with pyspark RDD
+Implementing standard kmeans and kmeans++ with pyspark RDD. The implementation is based on paper here https://web.stanford.edu/~rezab/classes/cme323/S16/projects_reports/bodoia.pdf . The data used can be collected here http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption . First clean the data by dropping the data and time columns before using this notebook
